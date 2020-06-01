@@ -2,7 +2,7 @@
 Hi, I'm Tam and this is a show case of my data-analytic project for __KPMG Virtual Internship program__.
 
 In this repo, you should find:
-- The source code (Jupyter notebook file with annotations of my learning progress)
+- The source code (Jupyter notebook file with annotations of my learning progress). View it [here](https://nbviewer.jupyter.org/github/TVMTam/CV-KPMG/blob/master/Source%20Code%20Notebook.ipynb)
 - The [slides](https://drive.google.com/file/d/1OXXtSw-_9pQekzz4L1Jv4qIS9urTWf5W/view?usp=sharing) for my presentation
 - My Power BI Interactive Dashboard
 
