@@ -7,6 +7,8 @@ In this repo, you should find:
 - My Power BI Interactive Dashboard
 - [Raw data](https://drive.google.com/file/d/1rzuxLALY51nqHbDxcZnUyYtOHGlVs8_m/view?usp=sharing) and [Post processed data](https://drive.google.com/file/d/1_-ZoH60SOg2wEmyV9oAWXHO9rmZlOhdC/view?usp=sharing) in data folder
 
+if you have any comments, please contact me at tam.v.m.tien@gmail.com
+
 ## Overview
 The main goal was to identify  1000 high-value customers based on 3 labelled datasets (Customer demographic, customer address and transactions hitory) given by the client.
 
