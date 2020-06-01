@@ -11,7 +11,7 @@ In this repo, you should find:
 The main goal was to identify  1000 high-value customers based on 3 labelled datasets (Customer demographic, customer address and transactions hitory) given by the client.
 
 The internship has 3 modules:
->- Module 1: Data Quality Assessment
+> - Module 1: Data Quality Assessment
 - Module 2: Analyzing data to build recommendation for client's marketing strategy
 - Module 3: Data Insights and Presentation (using dashboards)
 
