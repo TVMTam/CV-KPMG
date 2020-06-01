@@ -27,4 +27,4 @@ Packages: Numpy, Pandas, Matplotlib<br>
 
 
 ## License
-This project is open source and licensed under the MIT License - see the LICENSE.md file for details
+This project is open source and licensed under the MIT License - see the LICENSE.md file for [details](https://choosealicense.com/licenses/mit/)
