@@ -2,8 +2,8 @@
 Hi, I'm Tam and this is a show case of my data-analytic project for __KPMG Virtual Internship program__.
 
 In this repo, you should find:
-- The source code (Jupyter notebook file with annotations of my learning progress). View it [here](https://nbviewer.jupyter.org/github/TVMTam/CV-KPMG/blob/master/Source%20Code%20Notebook.ipynb)
 - The [slides](https://drive.google.com/file/d/1OXXtSw-_9pQekzz4L1Jv4qIS9urTWf5W/view?usp=sharing) for my presentation
+- The source code (Jupyter notebook file with annotations of my learning progress). View it [here](https://nbviewer.jupyter.org/github/TVMTam/CV-KPMG/blob/master/Source%20Code%20Notebook.ipynb)
 - My Power BI Interactive Dashboard
 - [Raw data](https://drive.google.com/file/d/1rzuxLALY51nqHbDxcZnUyYtOHGlVs8_m/view?usp=sharing) and [Post processed data](https://drive.google.com/file/d/1_-ZoH60SOg2wEmyV9oAWXHO9rmZlOhdC/view?usp=sharing) in data folder
 
