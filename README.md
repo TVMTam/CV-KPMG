@@ -18,12 +18,12 @@ Although the task can be purely done in excel, I would like to challenge myself 
 
 I've learnt a lot in terms of data manipulation and visualisation. Check out my notebook above for more details.
 
-### Tools that I used:
+## Tools that I used:
 
 Environment: Miniconda, Jupyter Notebook<br>
 Language: Python <br>
 Packages: Numpy, Pandas, Matplotlib<br>
 
 
-### License
+## License
 This project is open source and licensed under the MIT License - see the LICENSE.md file for details
